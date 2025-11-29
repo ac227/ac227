@@ -2,6 +2,8 @@
 
 # Abner Surrey
 
+I'm a lovely girl, forever.
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&vCenter=true&width=450&height=55&lines=Hello!+I'm+Abner+Surrey.;Nice+to+meet+you~)
 
 ![Java](https://img.shields.io/badge/-Java-F80000?style=for-the-badge&logo=openjdk&logoColor=fff)
