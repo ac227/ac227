@@ -16,6 +16,9 @@ I'm a lovely girl, forever.
 ![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=fff)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=fff)
 ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
 
 [![Matrix](https://img.shields.io/badge/-@tailx:matrix.org-0DBD8B?logo=matrix&logoColor=white&style=for-the-badge)](https://matrix.to/#/@tailx:matrix.org)
 [![Twitter](https://img.shields.io/badge/-@abnersurrey227-1DA1F2?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/abnersurrey227)
